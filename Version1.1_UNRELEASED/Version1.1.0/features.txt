@@ -1,0 +1,7 @@
+This is a file which represents the basic features of instagram:
+POST
+STORY
+LIKE,COMMENTS,SHARE ETC
+
+NEW FEATURE:
+REELS

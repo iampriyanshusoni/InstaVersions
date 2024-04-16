@@ -1,0 +1,12 @@
+This is a bugs file which contains some errors in functanility of instagram like: user is facing a error in adding a post,audio or some other errors.
+
+BUGS V1.0
+1. ERROR IN UPLOADING POST
+2. ERROR IN ADDING AUDIO
+
+BUGS RESOLVED V1.1
+1. ERROR IN UPLOADING POST
+2. ERROR IN ADDING AUDIO
+
+BUGS IN ADDING NEW FEATURE:
+1. SOME IPHONE USER FACING ISSUE`
