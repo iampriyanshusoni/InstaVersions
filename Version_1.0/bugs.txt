@@ -1,0 +1,1 @@
+This is a bugs file which contains some errors in functanility of instagram like: user is facing a error in adding a post,audio or some other errors.
